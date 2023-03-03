@@ -43,7 +43,7 @@ function Register() {
                             uid: res.user.uid,
                             displayName,
                             email,
-                            photoURL: downloadURL,
+                            photoURL:downloadURL,
 
                         });
 
